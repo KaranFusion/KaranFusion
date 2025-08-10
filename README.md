@@ -8,10 +8,9 @@ I'm an IoT Developer passionate about creating smart and innovative solutions!
 - ⚡ Fun fact: I love building smart systems with sensors and microcontrollers!
 
 ## Skills
-- Programming: Python, C++, JavaScript
-- Frameworks: Node.js, Flask
-- Tools: Arduino, Raspberry Pi
+- Programming: Python, C++
+- Tools: Arduino, Raspberry Pi, ESP32/8266
 
 ## Contact Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio](http://127.0.0.1:5500/projects.html)
+- [LinkedIn](https://www.linkedin.com/in/karan-samrit-380918309/)
+- [Portfolio]()
