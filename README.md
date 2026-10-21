@@ -59,14 +59,19 @@ port that works for a week and then doesn't, the thing that has to keep running 
 
 ### Selected work
 
-| Project | What it is |
+Most of it is private right now, so here is what it is rather than where it lives.
+
+| | |
 | :-- | :-- |
-| [**jarvis-voice-assistant**](https://github.com/KaranFusion/jarvis-voice-assistant) | A desktop voice assistant in a single Python file. Listens through Google's speech API, answers with `pyttsx3`, opens sites, checks the time, exits when you tell it to. |
-| [**Library-Management-System-**](https://github.com/KaranFusion/Library-Management-System-) | A MySQL schema for books, members and lending, plus the joins, aggregates and constraints that keep it honest — including the query that finds books nobody has brought back. |
+| **Voice assistant** | A desktop assistant in one Python file: microphone in, Google's speech API, spoken answer out through `pyttsx3`. Opens sites, tells the time, exits when told to. |
+| **Analytics** | Four end-to-end projects — churn modelling, walk-forward sales forecasting, marketing attribution with an A/B test, and a layered SQL warehouse with data-quality rules. |
+| **Full-stack** | Auth-heavy builds: a task manager with JWT refresh and RBAC, a Stripe storefront with signed webhooks, Socket.io chat with presence. |
+| **Systems** | A URL shortener with rate limiting and Prometheus-style metrics behind Docker and CI, an offline RAG document Q&A API, a Recharts analytics dashboard. |
+| **IoT** | Sensor work on ESP32 and Raspberry Pi boards, and a multi-tenant gym management SaaS with a WhatsApp notification service. |
 
 ### In action
 
-A real run of the assistant, straight from the source:
+A real run of the voice assistant, straight from the source:
 
 ```console
 $ python jarvis.karan.py
